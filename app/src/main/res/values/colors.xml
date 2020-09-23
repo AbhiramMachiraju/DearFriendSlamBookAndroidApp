@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4285f4</color>
+    <color name="colorPrimaryDark">#3367d6</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bright_color">#ffdcc7</color>
+    <color name="light_color">#e1976a</color>
+    <color name="white_color">#ffffff</color>
+    <color name="brownHeader">#b9154e</color>
+    <color name="red">#f00</color>
+    <color name="black">#080808</color>
+    <color name="transp">#80000000</color>
+    <color name="transp2">#80df6565</color>
+    <color name="MainColor">#fce8b2</color>
+    <color name="brownlight">#E2AA4F</color>
+
+    <color name="keyPress">#2222E9</color>
+    <color name="keyUp">#667BC1</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorBlack">#000</color>
+    <color name="pink">#80d910bb</color>
+    <color name="darkPink">#e62b87</color><!--#f205c7-->
+    <color name="editIcon">#e54473</color>
+
+    <color name="ColorPrimaryDark">#000000</color>
+    <color name="ColorPrimary">#202324</color>
+    <color name="CanvasBackground">#ffffff</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="txtcolor">#140837</color>
+    <color name="green">#44df15</color>
+    <color name="subList">#404040</color>
+    <color name="fbutton_color_turquoise">#1abc9c</color>
+    <color name="fbutton_color_green_sea">#16a085</color>
+    <color name="fbutton_color_emerald">#2ecc71</color>
+    <color name="fbutton_color_nephritis">#27ae60</color>
+    <color name="fbutton_color_peter_river">#3498db</color>
+    <color name="fbutton_color_belize_hole">#2980b9</color>
+    <color name="fbutton_color_amethyst">#9b59b6</color>
+    <color name="fbutton_color_wisteria">#8e44ad</color>
+    <color name="fbutton_color_wet_asphalt">#34495e</color>
+    <color name="fbutton_color_midnight_blue">#2c3e50</color>
+    <color name="fbutton_color_sun_flower">#f1c40f</color>
+    <color name="fbutton_color_orange">#f39c12</color>
+    <color name="fbutton_color_carrot">#e67e22</color>
+    <color name="fbutton_color_pumpkin">#d35400</color>
+    <color name="fbutton_color_alizarin">#e74c3c</color>
+    <color name="fbutton_color_pomegranate">#c0392b</color>
+    <color name="fbutton_color_clouds">#d6dada</color>
+    <color name="fbutton_color_silver">#bdc3c7</color>
+    <color name="fbutton_color_concrete">#95a5a6</color>
+    <color name="fbutton_color_asbestos">#7f8c8d</color>
+    <color name="fbutton_color_darkpink">#afe2148c</color>
+    <color name="fbutton_color_lightpink">#afe2148c</color>
+    <color name="fbutton_color_pink">#c3e444cc</color>
+</resources>

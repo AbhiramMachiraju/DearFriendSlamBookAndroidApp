@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        card_view:cardCornerRadius="10dp"
+        card_view:cardElevation="@dimen/margin10"
+        card_view:cardMaxElevation="@dimen/margin10"
+        card_view:cardBackgroundColor="#3de2c1f2"
+        card_view:contentPadding="@dimen/margin10">
+
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/transbg"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:tint="@android:color/white"
+                android:padding="2dp" />
+
+
+
+            <com.nex3z.notificationbadge.NotificationBadge
+                android:id="@+id/badge"
+                android:visibility="visible"
+                android:layout_toRightOf="@id/imageView"
+                android:layout_alignTop="@id/imageView"
+                android:layout_marginLeft="-16dp"
+                android:layout_marginRight="-8dp"
+                android:layout_marginTop="-15dp"
+                android:layout_height="28dp"
+                android:layout_width="28dp"
+                card_view:badgeBackground="@drawable/badge_count">
+            </com.nex3z.notificationbadge.NotificationBadge>
+
+
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/_15sdp"
+                android:layout_marginBottom="4dp"
+                android:gravity="center_horizontal"
+                android:fontFamily="@font/wendy_one"
+                android:layout_below="@+id/imageView" />
+
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

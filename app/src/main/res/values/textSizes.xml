@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+<dimen name="pageTitles">30sp</dimen>
+<dimen name="paragraphText">14sp</dimen>
+<dimen name="listTitles">14sp</dimen>
+<dimen name="importantText">16sp</dimen>
+<dimen name="primaryText">16sp</dimen>
+<dimen name="secondaryText">14sp</dimen>
+<dimen name="buttonText">14sp</dimen>
+<dimen name="inputText">16sp</dimen>
+<dimen name="errorInputs">12sp</dimen>
+<dimen name="hintText">16sp</dimen>
+<dimen name="columnHeader">18sp</dimen>
+<dimen name="header">20sp</dimen>
+<dimen name="footer">10sp</dimen>
+<dimen name="radioButton">14sp</dimen>
+<dimen name="spinner">8sp</dimen>
+    </resources>
+

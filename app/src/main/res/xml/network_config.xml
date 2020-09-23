@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!--  Clear internet Traffic [ API 28+]
+
+Add In Manifest.XML:
+           android:networkSecurityConfig="@xml/network_config"
+            <uses-library android:name="org.apache.http.legacy" android:required="false" />
+
+-->
+
+<network-security-config>
+    <!--Set application-wide security config using base-config tag.-->
+    <base-config cleartextTrafficPermitted="true"/>
+</network-security-config>

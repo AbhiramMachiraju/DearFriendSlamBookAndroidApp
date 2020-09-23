@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">DearFriend</string>
+    <string name="HeaderText">Welcome Amigo</string>
+    <string name="aboutText"><font fgcolor="#FF0000">Dear Friend</font> is all about to remind and nourish your memories about your friends,AS life without friends is too boring to deal.</string>
+    <string name="developerText">I (App Maker) am small time developer,Who want to present a micro ideas  into more fascinating way.</string>
+    <string name="thanks">I (App Maker) express my gratitude for taking time to support this application.</string>
+    <string name="queries">For any queries:</string>
+    <string name="mailMsg"><font fgcolor="#FF0000">dearfriend155@gmail.com </font></string>
+    <string name="userDtls">User Details</string>
+    <string name="regNameMand">UserName<font fgcolor="#FF0000">*</font></string>
+    <string name="emailMand">Registered EmailId<font fgcolor="#FF0000">*</font></string>
+    <string name="userpasswordMand">Password<font fgcolor="#FF0000">*</font></string>
+    <string name="userRepasswordMand">Retype Password</string>
+    <string name="area">Area/Place</string>
+    <string name="Submit">SUBMIT</string>
+    <string name="Cancel">Cancel</string>
+    <string name="LoginBtn">LOGIN</string>
+    <string name="usrNAME">UserName</string>
+    <string name="pwd">Password</string>
+    <string name="email">Email</string>
+    <string name="rem">Reminder me</string>
+    <string name="generic_server_down">Generic Server Down</string>
+    <string name="no_internet">No Internet</string>
+    <string name="generic_error">Generic Error</string>
+    <string name="noInternetConn">No Internet Connection</string>
+    <string name="plsConnectInternet">Please Connect To Internet</string>
+    <string name="plsWait">Please Wait..</string>
+    <string name="error">Error Occured,Please try again or contact Administartor..</string>
+
+    <string name="userCreationFailed">User Creation Failed</string>
+    <string name="duplicate">User Existed Already,Please try with different Username.</string>
+    <string name="userCreationsuccess">User Creation Successfull</string>
+    <string name="datasave">Date saved successfully.</string>
+    <string name="datafail">Date save unsuccessfully.Please try after sometimes or contact admin</string>
+
+    <string name="bestie">About\nYour  BESTIE</string>
+    <string name="petname">Full Name/Pet Name</string>
+    <string name="favoriColor">Favorite Color</string>
+    <string name="addicition">Addiction</string>
+    <string name="Currentcrush">Current Crush</string>
+    <string name="laugh">What makes your friend Laugh mostly.?</string>
+    <string name="annoy">What annoys your friend mostly.?</string>
+    <string name="zoadic">Zoadic Sign</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="crazy">Craziest thing you and  your friend did together.?</string>
+    <string name="Movie">Movies he Like</string>
+    <string name="buy">What would you buy for your friend,if u had $1000?</string>
+    <string name="memory">What is your best memory with him.?</string>
+    <string name="sport">Sports He like</string>
+    <string name="song">Song He like</string>
+
+    <string name="takenImg"><b>Upload <font fgcolor="#ffe604">You and Your BFF</font> Image</b></string>
+
+    <string name="YourFriends">Search Your Friends</string>
+    <string name="enter">Enter Your Friend Name</string>
+    <string name="getAll">GetAll Friends</string>
+
+    <string name="dialogTitle">Sorry for inconvenience</string>
+    <string name="dialogMsg">DearFriend server timings: 10am to 10pm,\nDue to limited resource we are maintaining certain timesheet.\nWe promise you in future to get complete access with 24/7 usage.</string>
+    <string name="footerText">Copyrights@Abhiram2020</string>
+
+
+    <string name="online"> Online</string>
+    <string name="offline"> Offline</string>
+
+</resources>
